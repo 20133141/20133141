@@ -1,5 +1,3 @@
-layout: page
-title: "Simin Kavousi"
 # simin
 ### Profile
 - **Started**: 23/08/2024
