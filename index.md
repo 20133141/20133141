@@ -1,3 +1,6 @@
+layout: page
+title: "Simin Kavousi"
+permalink: /20133141/edit/main
 # simin
 ### Profile
 - **Started**: 23/08/2024
